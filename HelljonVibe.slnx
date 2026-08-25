@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="HelljonVibe.Identity.Api/HelljonVibe.Identity.Api.csproj" />
   <Project Path="HelljonVibe.Identity.Data/HelljonVibe.Identity.Data.csproj" />
   <Project Path="HelljonVibe.Identity.Models/HelljonVibe.Identity.Models.csproj" />
 </Solution>
